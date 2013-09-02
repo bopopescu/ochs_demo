@@ -1,4 +1,4 @@
-GitHub Flavored Markdown
+A new title!
 ================================
 
 *View the [source of this content](http://github.github.com/github-flavored-markdown/sample_content.html).*
