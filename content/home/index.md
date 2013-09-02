@@ -1,4 +1,4 @@
-Testing the hook!
+Testing the hook, again!
 ================================
 
 *View the [source of this content](http://github.github.com/github-flavored-markdown/sample_content.html).*
