@@ -1,4 +1,4 @@
-Hi Katie
+Hi Katie, this is safe!
 ================================
 
 *View the [source of this content](http://github.github.com/github-flavored-markdown/sample_content.html).*
