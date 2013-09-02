@@ -34,7 +34,7 @@ My email addy is tom@github.com.
 Math is hard, let's go shopping
 -------------------------------
 
-In first grade I learned that 5 &gt; 3 and 2 &lt; 7. Maybe some arrows. 1 -&gt; 2 -&gt; 3. 9 &lt;- 8 &lt;- 7.
+In first grade I learned that 5 > 3 and 2 < 7. Maybe some arrows. 1 -> 2 -> 3. 9 <- 8 <- 7.
 
 Triangles man! a^2 + b^2 = c^2
 
@@ -71,12 +71,12 @@ What about some code **in** a list? That's insane, right?
 
 Some people seem to like definition lists
 
-&lt;dl&gt;
-  &lt;dt&gt;Lower cost&lt;/dt&gt;
-  &lt;dd&gt;The new version of this product costs significantly less than the previous one!&lt;/dd&gt;
-  &lt;dt&gt;Easier to use&lt;/dt&gt;
-  &lt;dd&gt;We've changed the product so that it's much easier to use!&lt;/dd&gt;
-&lt;/dl&gt;
+<dl>
+  <dt>Lower cost</dt>
+  <dd>The new version of this product costs significantly less than the previous one!</dd>
+  <dt>Easier to use</dt>
+  <dd>We've changed the product so that it's much easier to use!</dd>
+</dl>
 
 I am a robot
 ------------
@@ -91,20 +91,20 @@ You see, that was formatted as code because it's been indented by four spaces.
 
 How about we throw some angle braces and ampersands in there?
 
-    &lt;div class="footer"&gt;
-        &amp;copy; 2004 Foo Corporation
-    &lt;/div&gt;
+    <div class="footer">
+        &copy; 2004 Foo Corporation
+    </div>
 
 Set in stone
 ------------
 
 Preformatted blocks are useful for ASCII art:
 
-&lt;pre&gt;
+<pre>
              ,-. 
     ,     ,-.   ,-. 
    / \   (   )-(   ) 
-   \ |  ,.&gt;-(   )-&lt; 
+   \ |  ,.>-(   )-< 
     \|,' (   )-(   ) 
      Y ___`-'   `-' 
      |/__/   `-' 
@@ -112,41 +112,41 @@ Preformatted blocks are useful for ASCII art:
      | 
      |    -hrr- 
   ___|_____________ 
-&lt;/pre&gt;
+</pre>
 
 Playing the blame game
 ----------------------
 
 If you need to blame someone, the best way to do so is by quoting them:
 
-&gt; I, at any rate, am convinced that He does not throw dice.
+> I, at any rate, am convinced that He does not throw dice.
 
 Or perhaps someone a little less eloquent:
 
-&gt; I wish you'd have given me this written question ahead of time so I
-&gt; could plan for it... I'm sure something will pop into my head here in
-&gt; the midst of this press conference, with all the pressure of trying to
-&gt; come up with answer, but it hadn't yet...
-&gt;
-&gt; I don't want to sound like
-&gt; I have made no mistakes. I'm confident I have. I just haven't - you
-&gt; just put me under the spot here, and maybe I'm not as quick on my feet
-&gt; as I should be in coming up with one.
+> I wish you'd have given me this written question ahead of time so I
+> could plan for it... I'm sure something will pop into my head here in
+> the midst of this press conference, with all the pressure of trying to
+> come up with answer, but it hadn't yet...
+>
+> I don't want to sound like
+> I have made no mistakes. I'm confident I have. I just haven't - you
+> just put me under the spot here, and maybe I'm not as quick on my feet
+> as I should be in coming up with one.
 
 Table for two
 -------------
 
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;th&gt;ID&lt;/th&gt;&lt;th&gt;Name&lt;/th&gt;&lt;th&gt;Rank&lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;1&lt;/td&gt;&lt;td&gt;Tom Preston-Werner&lt;/td&gt;&lt;td&gt;Awesome&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;2&lt;/td&gt;&lt;td&gt;Albert Einstein&lt;/td&gt;&lt;td&gt;Nearly as awesome&lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
+<table>
+  <tr>
+    <th>ID</th><th>Name</th><th>Rank</th>
+  </tr>
+  <tr>
+    <td>1</td><td>Tom Preston-Werner</td><td>Awesome</td>
+  </tr>
+  <tr>
+    <td>2</td><td>Albert Einstein</td><td>Nearly as awesome</td>
+  </tr>
+</table>
 
 Crazy linking action
 --------------------
