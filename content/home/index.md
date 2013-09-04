@@ -1,4 +1,4 @@
-Hi Katie, this is safe!
+New Title
 ================================
 
 *View the [source of this content](http://github.github.com/github-flavored-markdown/sample_content.html).*
